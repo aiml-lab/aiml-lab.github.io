@@ -89,6 +89,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -165,7 +166,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+<!--
 <table align="center" style="width:100%">
  <tr>
     <th>Visitors</th>
@@ -212,7 +213,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td></td>
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
-</table>
+</table> -->
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## Website Support
+<a href="mailto:nikhilranjan7@gmail.com">Nikhil Ranjan</a> is the current developer handling the website.
