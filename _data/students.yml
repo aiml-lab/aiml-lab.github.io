@@ -16,14 +16,6 @@
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
 
-- name: Dr. Kamlesh Tiwari
-  photo: Kamlesh.jpg
-  info: Assistant Professor
-  email: kamlesh[dot]tiwari[at]pilani[dot]bits-pilani[dot]ac[dot]in
-  number_educ: 3
-  education1: He heads AI/ML lab and is co-incharge of Advanced Data Analytics & Parallel Technologies Lab at BITS Pilani.
-  education2: Research interests include Machine Learning, Computer Vision, Multimodal Biometric (Fingerprint, Face, Palmprint, knuckleprint) and Security.
-  education3: PhD degree from Computer Science and Engineering department of Indian Institute of Technology Kanpur
 #- name:
 #  photo: rock.jpg
 #  info:
