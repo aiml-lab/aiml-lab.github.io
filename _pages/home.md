@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "AI/ML Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "AI/ML Lab at BITS Pilani"
 sitemap: false
 permalink: /
 ---
