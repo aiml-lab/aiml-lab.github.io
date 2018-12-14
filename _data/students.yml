@@ -8,9 +8,20 @@
 #  education3:
 #  education4:
 
-- name: Corne Koks
-  photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+- name: Nikhil Ranjan
+  photo: Nikhil.png
+  info: CS and Bio undergrad, started Aug 2015
+  email: nikhilranjan7@gmail.com
+  number_educ: 3
+  education1: B.E. Computer Science, BITS Pilani
+  education2: M.Sc. Biological Sciences, BITS Pilani
+  education3: Visit Profile <a href="http://nikhilranjan7.github.io">here</a>
+
+
+- name: Irene Battisti
+  photo: Sarthak.jpeg
+  info: PhD student, started Jan 2015
+  email: Battisti@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Master Padova University
+  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
